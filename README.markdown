@@ -18,6 +18,8 @@ Then just fetch an image using a URL as follows
 
     /gradient_images/<height>:<start-color>:<end-color>.<format>
 
+Colors are 3 or 6 digit hex values, as in CSS.
+
 e.g. try something like this in your stylesheet
 
     div.featured { background: url(/gradient_images/50:aaa:fff.png) repeat-x white }
