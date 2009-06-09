@@ -22,7 +22,7 @@ e.g. try something like this in your stylesheet
 
     div.featured { background: url(/gradient_images/50:aaa:fff.png) repeat-x white }
 
-You can also do multiple gradients, separated by '::' which are stacked vertically:
+You can also do multiple gradients, separated by '::', which are stacked vertically:
 
     div.featured { 
       height: 100px;
